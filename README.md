@@ -25,5 +25,15 @@ if the input matches the phrase "s3cr3t!P@ssw0rd". If it matches, print "Welcome
 input	  output	          input	          output		input	      output
 qwerty	Wrong password!		s3cr3t!P@ssw0rd	Welcome		s3cr3t!p@ss	Wrong password!
 
+05.Problem: Number 100...200
+To write a program that reads an integer entered by the user and checks whether it is less than 100, between 100 and 200, or greater than 200. If the number is:
+
+• under 100 print: "Less than 100"
+• between 100 and 200 print: "Between 100 and 200"
+• greater than 200 print: "Greater than 200"
+
+input	output		             	input	output                input	output
+95	  Less than 100		        120	  Between 100 and 200		210	  Greater than 200
+
 
 
