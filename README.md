@@ -46,6 +46,24 @@ To write a program that reads a speed (real number) entered by the user and prin
 input	output	input	output	 input	output	 input	output		    input	output	
 8	    slow		49.5	average	 126	fast		   160	  ultra fast		3500	extremely fast
 
+06.Problem: Area of Figures
+To write a program in which the user enters the type and dimensions of a geometric figure and calculates its face. There are four types of figures: 
+square, rectangle, circle and triangle. The first line of the input reads the type of figure (text with the following options: square, rectangle, circle or triangle).
+
+• If the figure is a square: a fractional number is read on the next line - the length of its side
+• If the figure is a rectangle: on the next two lines read two fractional numbers - the lengths of its sides
+• If the figure is a circle: on the next line read a fractional number - the radius of the circle
+• If the figure is a triangle: on the next two lines read two fractional numbers - the length of its side and the length of the height to it
+Round the result to 3 decimal places
+
+вход	 изход		вход	      изход		вход	 изход		вход	   изход
+square          rectangle 	17.500  circle 113.097  triangle 45.000
+5	    25.000		7                   6                4.5
+7               2.5                                 20
+
+	
+
+
 
 
 
