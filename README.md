@@ -35,5 +35,17 @@ To write a program that reads an integer entered by the user and checks whether 
 input	output		             	input	output                input	output
 95	  Less than 100		        120	  Between 100 and 200		210	  Greater than 200
 
+06. Problem: Speed information
+To write a program that reads a speed (real number) entered by the user and prints the speed information.
+• For speed up to 10 (inclusive) print "slow"
+• For speed above 10 and up to 50 (inclusive) print "average"
+• For speed over 50 and up to 150 (inclusive) print "fast"
+• For speed above 150 and up to 1000 (inclusive) print "ultra fast"
+• For higher speed, print "extremely fast"
+
+input	output	input	output	 input	output	 input	output		    input	output	
+8	    slow		49.5	average	 126	fast		   160	  ultra fast		3500	extremely fast
+
+
 
 
