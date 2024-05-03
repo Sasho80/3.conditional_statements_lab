@@ -12,7 +12,7 @@ input  output	 input	output	вход	изход		вход	изход
 5              3              10            -5
 3	    5		  	 5		  5       10    10      5     5	
 
-3.Problem: Even or odd
+03.Problem: Even or odd
 To write a program that reads an integer entered by the user and prints whether it is even or odd.
 If even print "even", if odd print "odd".
 
