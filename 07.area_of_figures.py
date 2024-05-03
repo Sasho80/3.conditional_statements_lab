@@ -17,4 +17,4 @@ elif type_figure == "triangle":
     a_side = float(input())
     h_side = float(input())
     area = (a_side * h_side)/2
-print(area)
+print(f"{area:.3f}")
