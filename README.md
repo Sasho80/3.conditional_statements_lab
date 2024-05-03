@@ -19,4 +19,11 @@ If even print "even", if odd print "odd".
 input	output	input	output	input	output	input	output
 2	    even		3	    odd		  25	  odd		  1024	even
 
+04.Problem: Write a program that reads input data from the console - a password (one line of random text) and checks
+if the input matches the phrase "s3cr3t!P@ssw0rd". If it matches, print "Welcome", otherwise print "Wrong password!".
+
+input	  output	          input	          output		input	      output
+qwerty	Wrong password!		s3cr3t!P@ssw0rd	Welcome		s3cr3t!p@ss	Wrong password!
+
+
 
